@@ -1,0 +1,6 @@
+1  在文件夹路径下运行 npm install 来安装所有依赖
+2 在discord_message.json 文件中 替换下面四个参数：
+          "discord_link":"" //  discord聊天服务器的链接（邀请链接）
+        "token" :  ""  // discord的登录token
+        "channel_id" : ""   // 频道id
+        "time_interval": 10 //时间间隔 单位：秒钟
